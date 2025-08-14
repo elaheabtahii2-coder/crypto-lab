@@ -1,5 +1,5 @@
 # crypto-lab
-tools&amp;scripts for blockchai
+tools&amp;scripts for blockchain
 python
 #!/usr/bin/env python3
 """crypto-lab: small utilities entrypoint"""
