@@ -1,7 +1,7 @@
 # crypto-lab
 tools&amp;scripts for blockchain
 python
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """crypto-lab: small utilities entrypoint"""
 def show_info():
     print("crypto-lab — tools & scripts for blockchain")
